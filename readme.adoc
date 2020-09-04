@@ -7,7 +7,7 @@ Repo ini digunakan dalam penulisan pembuatan dokumentasi yang telah ada yang per
 == Team Invilver
 
 |===
-| Nama  | email |
+| Nama  | email 
 | Adam Abhi N
 | adam@alterra.id
 |===
